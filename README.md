@@ -1,6 +1,6 @@
-# mintilo-ai
+# MINTILO AI
 
-MINTILO AI is an open source project for data scientists and researchers to provide insights for policy makers in eradicating child mortality in developing countries through artificial intelligence (machine learning) for DHS survey data.
+MINTILO AI is an open source project aimed at data scientists, researchers and graduate students working to provide insights for policy makers in eradicating child mortality in developing countries using Artificial Intelligence (AI) and Machine Learning (ML) with DHS survey data.
 
 ## Table of Contents
 
@@ -12,25 +12,37 @@ MINTILO AI is an open source project for data scientists and researchers to prov
 
 ## Python Version
 
-This project requires Python version `3.8` or higher. To check your Python version, run:
+This project requires Python version `3.8` or higher. To check your Python version, run the following command in your terminal:
 
 ```commandline
 python --version
 ```
 
 ## Installation
+
+To get started with MINTILO AI, follow these steps:
+
 1. Clone the repository.
-2. Create a new virtual environment `venv` for this project and then activate it.
-3. Install the dependencies using `pip install -r requirements.txt`.
+2. Create a new virtual environment (`venv`) for this project and activate it.
+3. Install the dependencies using the following command:
+
+```commandline
+pip install -r requirements.txt
+```
 
 
 ## Usage
-Start the application using the Jupyter Notebooks: `build_features.ipynb` for feature engineering and `train_model.ipynb` to build and train ML models.
+
+To use the MINTILO AI application, start the Jupyter Notebooks: 
+* For feature engineering, open `mintilo_ai/build_features.ipynb`. 
+* To build and train ML models, open `mintilo_ai/train_model.ipynb`.
 
 ## Contributing
-Please let us know if you would want to learn more about the project and contribute. You can contact us at any time by sending an email to kofiya.technologies@gmail.com.
+
+We welcome contributions and would be happy to provide more information about the project. Feel free to contact us anytime by sending an email to `kofiya.technologies@gmail.com`.
 
 ## License
-GPL
+
+MINTILO AI is licensed under the GPL license.
 
 
