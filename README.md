@@ -1,6 +1,7 @@
 # MINTILO AI
 
-MINTILO AI is an open source project aimed at data scientists, researchers and graduate students working to provide insights for policy makers in eradicating child mortality in developing countries using Artificial Intelligence (AI) and Machine Learning (ML) with DHS survey data.
+MINTILO AI is an open source project dedicated to utilizing Python and machine learning techniques to provide insights for policy makers in eradicating child mortality in developing countries. By analyzing data from DHS surveys, MINTILO AI identifies risk factors associated with child mortality, leveraging artificial intelligence to contribute to the collective efforts in improving child survival rates. 
+
 
 ## Table of Contents
 
@@ -34,7 +35,6 @@ pip install -r requirements.txt
 ## Usage
 
 To use the MINTILO AI application, start the Jupyter Notebooks: 
-* For feature engineering, open `mintilo_ai/build_features.ipynb`. 
 * To build and train ML models, open `mintilo_ai/train_model.ipynb`.
 
 ## Contributing
