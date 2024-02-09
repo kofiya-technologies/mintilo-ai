@@ -1,5 +1,7 @@
 data
 data/*
+models
+models/*
 
 
 # Byte-compiled / optimized / DLL files
