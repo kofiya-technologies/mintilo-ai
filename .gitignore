@@ -2,8 +2,6 @@ data
 data/*
 models
 models/*
-database
-database/*
 
 
 # Byte-compiled / optimized / DLL files
