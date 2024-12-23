@@ -19,17 +19,22 @@ This project requires Python version `3.8` or higher. To check your Python versi
 python --version
 ```
 
+
 ## Installation
 
-To get started with MINTILO AI, follow these steps:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/kofiya-technologies/mintilo-ai
+   ```
 
-1. Clone the repository.
-2. Create a new virtual environment (`venv`) for this project and activate it.
-3. Install the dependencies using the following command:
-
-```commandline
-pip install -r requirements.txt
-```
+2. Install dependencies using `pipenv`:
+   ```bash
+   pip install pipenv
+   ```
+   
+   ```bash
+   pipenv install --deploy --ignore-pipfile
+   ```
 
 
 ## Usage
